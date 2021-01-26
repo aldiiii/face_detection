@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "819492878976",
+    "project_id": "ml-app-9d25f",
+    "storage_bucket": "ml-app-9d25f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819492878976:android:8a528ada0494127b434465",
+        "android_client_info": {
+          "package_name": "com.example.face_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819492878976-7dfnikh5dv12uqu0205o0g0jrhimkc1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhFZ3-iiMe1VYp9erK2mKezY4Gtx6bFSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819492878976-7dfnikh5dv12uqu0205o0g0jrhimkc1o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819492878976-bnn51mu6vdnibqsenvlq658nap6bgp5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.FaceNet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
